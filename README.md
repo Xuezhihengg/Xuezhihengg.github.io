@@ -1,2 +1,3 @@
-# Xuezhihengg.github.io
-Xuezhihengg's blog
+# Xuezhihengg博客发布页
+
+[Xuezhihengg's blog](https://xuezhihengg.github.io)
