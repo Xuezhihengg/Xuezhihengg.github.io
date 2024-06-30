@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello Blog!</title>
+    <link href="/2024/03/01/Hello-Blog/"/>
+    <url>/2024/03/01/Hello-Blog/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p>  这就是正文<br><em>换行</em></p><p><em>黄汉</em></p><ol><li>里</li><li>你好</li><li>我们</li></ol><p>海湖</p><p><img src="/../img/blackhole.jpg" alt="alt text"></p><p>$$<br>$$  $$</p><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p><strong>表格</strong></p><table><thead><tr><th>小明</th><th align="center">大名</th><th>要民航</th></tr></thead><tbody><tr><td>1.5</td><td align="center">2.3</td><td>2.1</td></tr></tbody></table><p><strong>链接</strong></p><p><strong>code</strong></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-type">int</span> <span class="hljs-variable">x</span> <span class="hljs-operator">=</span> <span class="hljs-number">0</span>;<br><span class="hljs-type">String</span> <span class="hljs-variable">you</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">String</span>(<span class="hljs-string">&quot;er&quot;</span>);<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
